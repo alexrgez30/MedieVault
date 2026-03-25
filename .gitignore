@@ -11,3 +11,7 @@ wheels/
 
 # Notes & roadmaps
 notes/
+
+# Environment variables & secrets
+.env
+.env.*
